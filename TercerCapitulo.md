@@ -8,4 +8,8 @@ A partir de la matriz de confusion, hay metricas que podemos obtener a partir de
 
 * Recall: que es el numero de verdaderos positivos divido por el numero total de verdaderos positivos y falsos negativos. Tambien es llamada sensibilidad, indice de aciertos o indice positivo verdadero
 
-*Puntaje F1: es dos veces el producto de la precision y el recall divido por la suma de la precision y el recall, en otras palabras es la media armonica de precision y recuerdo
+*Puntaje F1: es dos veces el producto de la precision y el recall divido por la suma de la precision y el recall, en otras palabras es la media armonica de precision y recall.
+
+Podemos decir que:
+* Tener una alta precision en nuestro clasificador se tiene cuando hay una tasa baja de falsos positivos, es decir, no se predijeron muchos correos electronicos reales como spam
+*Tener un alto recall significa 
